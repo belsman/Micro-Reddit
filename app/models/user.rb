@@ -5,4 +5,5 @@ class User < ApplicationRecord
     validates_uniqueness_of :username, :email
 
     has_many :posts, dependent: :destroy
+    has_many :comments, dependent: :destroy
 end
