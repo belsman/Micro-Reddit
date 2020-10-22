@@ -34,7 +34,8 @@ https://github.com/belsman/Micro-Reddit.git
 
 4) Run ```cd Micro-Reddit``` to enter the main directory
 5) Run ```bundle install```
-6) Run ```rails db:migrate```
+6) Run ```rails db:create```
+7) Run ```rails db:migrate```
 
 ### Usage
 
