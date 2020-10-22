@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple example steps.
 https://github.com/belsman/Micro-Reddit.git
 ```
 
-4) Run 'cd Micro-Reddit' to enter the main directory
+4) Run ```cd Micro-Reddit``` to enter the main directory
 5) Run ```bundle install```
 6) Run ```rails db:migrate```
 
